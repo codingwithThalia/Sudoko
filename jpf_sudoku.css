@@ -22,12 +22,12 @@ table.spuzzle          {
 }
 
 td {
-   border: 5px outset gray;
+   border: 5px outset Navy;
    width: 33.3%;
 }
 
 th {
-   color: gray;
+   color: Navy;
    padding-right: 10px;
    padding-bottom: 10px;
 }
@@ -44,7 +44,7 @@ table.subTable         {
 table.subTable td {
    box-shadow: inset 0px 0px 15px;   
    border: 1px solid black; 
-   color: blue; 
+   color: pink; 
    height: 40px;   
    text-align: center;
    vertical-align: middle; 
@@ -52,11 +52,11 @@ table.subTable td {
 
 
 td.goldBox td {
-   background: rgb(228, 199, 42);
+   background: rgb(108, 109, 52);
 }
 
 td.greenBox td {
-   background: rgb(203, 229, 130);
+   background: rgb(255,0, 152);
 
 }
 
