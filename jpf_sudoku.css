@@ -6,8 +6,8 @@
    Case Problem 2
 
    Sudoku Style Sheet
-   Author: Rebecca Peretz
-   Date:   2018-03-01
+   Author: Thalia Benitez
+   Date:   July 12,2020
 
    Filename:         jpf_sudoku.css
 
@@ -51,12 +51,12 @@ table.subTable td {
 }
 
 
-td.goldBox td {
+td.pinkbox td {
    background: rgb(108, 109, 52);
 }
 
-td.greenBox td {
-   background: rgb(255,0, 152);
+td.purpleBox td {
+   background: rgb(78,52, 109);
 
 }
 
