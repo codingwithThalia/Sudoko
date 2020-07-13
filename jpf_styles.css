@@ -37,7 +37,7 @@ body {
 /* Header styles */
 
 header {
-   background: gray;
+   background: pink;
 }
 
 header img#logoimg {
@@ -56,7 +56,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-   color: white;
+   color: Aqua;
    display: block;
    padding: 5px 20px;
    width: 100%;
