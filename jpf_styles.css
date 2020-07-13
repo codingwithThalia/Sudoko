@@ -18,18 +18,18 @@
 html {
    background: rgb(242, 228, 153);
    font-family: Verdana, Geneva, sans-serif;
-   height: 100%;
+   height: 300%;
 }
 
 body {
-   background-color: white;
+   background-color: pink;
    box-shadow: rgb(51, 51, 51) 10px 0px 40px, rgb(51, 51, 51) -10px 0px 40px;
    border-left: 1px solid gray;
    border-right: 1px solid gray;
    min-height: 100%;   
    margin: 0px auto;
    min-width: 400px;
-   max-width: 1024px;   
+   max-width: auto;   
    width: 100%; 
 }
 
@@ -79,7 +79,7 @@ article {
 }
 
 article h1 {
-   color: rgb(33, 88, 132);
+   color: rgb(40, 78, 122);
    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
    font-weight: normal;
    font-size: 1.5em;
@@ -98,14 +98,14 @@ article p {
 section {
    padding: 20px 0px;
    float: left;
-   width: 70%;
+   width: 80%;
 }
 
 /* Footer styles */   
 
 footer {
    clear: both;
-   color: white;    
+   color: pink;    
    background: linear-gradient(to bottom, rgb(165, 143, 23),  rgb(71, 71, 71));
    font-size: 0.9em;  
    font-style: normal;
